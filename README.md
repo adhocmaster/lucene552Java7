@@ -6,9 +6,9 @@ Original tutorial can be found here: http://www.tutorialspoint.com/lucene/lucene
 
 You need to add 3 libraries to the buildpath. Download and extract lucene 5.5.2 and add these to your project buildpath:
 
-*lucene-5.5.2/core/lucene-core-5.5.2.jar*
-*lucene-5.5.2/analysis/common/lucene-analyzers-common-5.5.2.jar*
-*lucene-5.5.2/queryparser/lucene-queryparser-5.5.2.jar*
+- lucene-5.5.2/core/lucene-core-5.5.2.jar
+- lucene-5.5.2/analysis/common/lucene-analyzers-common-5.5.2.jar
+- lucene-5.5.2/queryparser/lucene-queryparser-5.5.2.jar
 
 ##Necessary changes:
 
